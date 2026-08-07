@@ -45,8 +45,13 @@ Fully distributed, honest partnerships, candid feedback. That's the whole pitch.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sirkitree&show_icons=true&hide_border=true&bg_color=111117&title_color=00FFFF&text_color=e0e0e0&icon_color=26FFCE&ring_color=6A00FF&include_all_commits=true&count_private=true" height="165" alt="GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sirkitree&layout=compact&hide_border=true&bg_color=111117&title_color=00FFFF&text_color=e0e0e0&langs_count=8" height="165" alt="Top languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sirkitree&theme=2077" width="100%" alt="Profile details" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sirkitree&theme=2077" height="200" alt="Repos per language" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sirkitree&theme=2077" height="200" alt="Most commit language" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sirkitree&theme=2077" height="200" alt="Stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sirkitree&theme=2077&utcOffset=-5" height="200" alt="Productive time" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=sirkitree&hide_border=true&background=111117&stroke=1a1a24&ring=00FFFF&fire=6A00FF&currStreakLabel=26FFCE&sideLabels=8a8a9a&currStreakNum=e0e0e0&sideNums=e0e0e0&dates=8a8a9a" height="165" alt="Streak" />
 
@@ -56,14 +61,13 @@ Fully distributed, honest partnerships, candid feedback. That's the whole pitch.
 
 ### Selected work
 
-<div align="center">
-
-<a href="https://github.com/sirkitree/conversation-logger"><img src="https://github-readme-stats.vercel.app/api/pin/?username=sirkitree&repo=conversation-logger&hide_border=true&bg_color=111117&title_color=00FFFF&text_color=8a8a9a&icon_color=26FFCE" alt="conversation-logger" /></a>
-<a href="https://github.com/sirkitree/claude-conversation-saver"><img src="https://github-readme-stats.vercel.app/api/pin/?username=sirkitree&repo=claude-conversation-saver&hide_border=true&bg_color=111117&title_color=00FFFF&text_color=8a8a9a&icon_color=26FFCE" alt="claude-conversation-saver" /></a>
-<a href="https://github.com/sirkitree/angular-directive.g-signin"><img src="https://github-readme-stats.vercel.app/api/pin/?username=sirkitree&repo=angular-directive.g-signin&hide_border=true&bg_color=111117&title_color=00FFFF&text_color=8a8a9a&icon_color=26FFCE" alt="angular-directive.g-signin" /></a>
-<a href="https://github.com/sirkitree/DrupalCodingStandard"><img src="https://github-readme-stats.vercel.app/api/pin/?username=sirkitree&repo=DrupalCodingStandard&hide_border=true&bg_color=111117&title_color=00FFFF&text_color=8a8a9a&icon_color=26FFCE" alt="DrupalCodingStandard" /></a>
-
-</div>
+| | |
+|---|---|
+| [**claude-conversation-saver**](https://github.com/sirkitree/claude-conversation-saver) <br> Auto-saves and indexes your Claude Code conversations. | <a href="https://github.com/sirkitree/claude-conversation-saver"><img src="https://img.shields.io/github/stars/sirkitree/claude-conversation-saver?style=flat-square&labelColor=16161F&color=00FFFF&logo=github&logoColor=26FFCE" alt="stars" /></a> |
+| [**conversation-logger**](https://github.com/sirkitree/conversation-logger) <br> Skill for saving, searching, and retrieving transcripts. | <a href="https://github.com/sirkitree/conversation-logger"><img src="https://img.shields.io/github/stars/sirkitree/conversation-logger?style=flat-square&labelColor=16161F&color=00FFFF&logo=github&logoColor=26FFCE" alt="stars" /></a> |
+| [**angular-directive.g-signin**](https://github.com/sirkitree/angular-directive.g-signin) <br> AngularJS directive for the Google Plus sign-in button. | <a href="https://github.com/sirkitree/angular-directive.g-signin"><img src="https://img.shields.io/github/stars/sirkitree/angular-directive.g-signin?style=flat-square&labelColor=16161F&color=00FFFF&logo=github&logoColor=26FFCE" alt="stars" /></a> |
+| [**DrupalCodingStandard**](https://github.com/sirkitree/DrupalCodingStandard) <br> Sublime build script for Drupal Code Sniffer. | <a href="https://github.com/sirkitree/DrupalCodingStandard"><img src="https://img.shields.io/github/stars/sirkitree/DrupalCodingStandard?style=flat-square&labelColor=16161F&color=00FFFF&logo=github&logoColor=26FFCE" alt="stars" /></a> |
+| [**slack-markdown-formatter**](https://github.com/sirkitree/slack-markdown-formatter) <br> Skill for Slack mrkdwn formatting. | <a href="https://github.com/sirkitree/slack-markdown-formatter"><img src="https://img.shields.io/github/stars/sirkitree/slack-markdown-formatter?style=flat-square&labelColor=16161F&color=00FFFF&logo=github&logoColor=26FFCE" alt="stars" /></a> |
 
 ### Elsewhere
 
